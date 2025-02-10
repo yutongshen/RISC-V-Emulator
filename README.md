@@ -1,4 +1,4 @@
-# RISC-V Simulator
+# RISC-V Emulator
 
 ## Environment
 - Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-34-generic x86\_64)
